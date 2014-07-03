@@ -1,5 +1,2 @@
----
-layout: test
----
-
-=== Header ===
+test
+====
