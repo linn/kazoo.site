@@ -15,6 +15,22 @@ Kazoo is available for iPad, Windows and Mac.
 
 ## Operation
 
-![Home View](images/HomeView.jpg =600px)
+![Home View](images/HomeView.jpg)
+
+### Selecting a room
+
+### Navigation
+
+### Playback controls
+
+### Volume controls
+
+### Now playing view
+
+## Music sources
+
+## Playing music
+
+## Multiroom
 
 ## Troubleshooting
