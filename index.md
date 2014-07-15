@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Kazoo Manual
+title: Kazoo User Guide
 ---
 
-# Kazoo Manual
+# Kazoo User Guide
+
+Kazoo provides simple and intuative way to play music all around your home.
