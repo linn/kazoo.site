@@ -29,7 +29,7 @@ Kazoo is available for iPad, Windows and Mac.
 
 ## Music sources
 
-### Local music
+### Local music library
 
 ### Radio
 
@@ -37,6 +37,10 @@ Kazoo is available for iPad, Windows and Mac.
 
 ## Playing music
 
-## Multiroom
+### Searching
+
+### Managing the playlist
+
+## Grouping rooms
 
 ## Troubleshooting
