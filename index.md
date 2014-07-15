@@ -15,6 +15,6 @@ Kazoo is available for iPad, Windows and Mac.
 
 ## Operation
 
-![drawing](images/HomeView.jpg)
+![drawing](images/HomeView.jpg =600px)
 
 ## Troubleshooting
