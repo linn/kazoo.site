@@ -15,7 +15,7 @@ Kazoo is available for iPad, Windows and Mac.
 
 ## Operation
 
-![Home View][1]  
-   [1]: http://linn.github.io/kazoo.site/images/HomeView.jpg
+![Home View][1]
+[1]: http://linn.github.io/kazoo.site/images/HomeView.jpg
 
 ## Troubleshooting
