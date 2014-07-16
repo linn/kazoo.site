@@ -15,11 +15,13 @@ Kazoo is available for iPad, Windows and Mac.
 
 ## Operation
 
+Kazoo has support for homes that have multiple DS systems. Each system in the home should be given a unique room name. A system's room name can be configured using Linn Konfig.
+
 ![Home View](images/HomeView.jpg)
 
-### Selecting a room
+### Navigation
 
-Kazoo has support for homes that have multiple DS systems. Each system in the home should be given a unique room name. A system's room name can be configured using Linn Konfig.
+![Room Selection](images/RoomName.png)
 
 1. Click ![Room Selection](images/RoomName.png) to show the room selection dialog
 2. Click on the desired room name.
@@ -30,8 +32,6 @@ Kazoo has support for homes that have multiple DS systems. Each system in the ho
 * When moving between rooms the music will continue to play
 * Rooms in standby will have their standby button greyed out
 * To turn all systems off click the ![Turn all systems off](images/TurnAllSystemsOff.png) button
-
-### Navigation
 
 ### Playback controls
 
