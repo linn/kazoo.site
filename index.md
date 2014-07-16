@@ -105,7 +105,7 @@ Linn DS systems provides the ability to different play music in every room in th
 
 All rooms grouped together play the same music in perfect synchronisation.
 
-1. Click ![Multiroom Tile](images/MutliroomTile.png)
+1. Click ![Multiroom Tile](images/MultiroomTile.png)
 2. Click ![Group Button](images/GroupButton.png) on the room you want to group with other rooms
 
 ![GroupDialog](images/GroupDialog.png)
