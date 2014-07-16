@@ -37,9 +37,11 @@ Selects a room to play music in.
 
 ![Home](images/Home.png)
 
-Returns to the homescreen.
+Click to return to the homescreen.
 
 ![Volume](images/Volume.png)
+
+Click to open the volume control dialog.
 
 ### Playback controls
 
