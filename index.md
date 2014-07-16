@@ -21,7 +21,7 @@ Kazoo is available for iPad, Windows and Mac.
 
 Kazoo has support for homes that have multiple DS systems. Each system in the home should be given a unique room name. A system's room name can be configured using Linn Konfig.
 
-1. Click ![Room Selection](images/RoomSelection.png) to show the room selection dialog
+1. Click ![Room Selection](images/RoomName.png) to show the room selection dialog
 2. Click on the desired room name to switch rooms.
 
 * The currently selected room is highlighted in white
