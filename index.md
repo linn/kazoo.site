@@ -41,7 +41,7 @@ Click to return to the homescreen.
 
 ![Volume](images/Volume.png)
 
-Click to open the volume control dialog.
+Click to open the volume control dialog, (if the selected room's volume can be controlled).
 
 ### Playback controls
 
@@ -50,6 +50,17 @@ Click to open the volume control dialog.
 Provides the playback controls, play/pause/stop, skip forwards and skip backwards for the selected room.
 
 ### Volume controls
+
+![Volume Control Dialog](images/VolumeControlDialog.png)
+
+Provides volume controls for the selected room.
+
+1. Click and rotate clockwise on the dial to turn the volume up; Alternatively click on the + button
+2. Click and rotate anti-clockwise on the dial to turn the volume down; Alternatively click on the - button
+3. Click on the centre of the dial to toggle mute
+
+* The inner number shows the absolute volume value
+* The outer dial shows the percentage that the current volume is of the volume limited volume
 
 ### Now playing view
 
