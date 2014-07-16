@@ -43,7 +43,7 @@ Click to return to the homescreen.
 
 Click to open the volume control dialog, (if the selected room's volume can be controlled).
 
-![Now Playing View](image/NowPlayingView.png)
+![Now Playing View](images/NowPlayingView.png)
 
 Click to open the fullscreen view.
 
@@ -69,6 +69,7 @@ Provides volume controls for the selected room.
 ### Now Playing and Fullscreen view
 
 ![Now Playing View](images/NowPlayingView.png)
+
 ![Fullscreen View](images/FullscreenView.png)
 
 The now playing and fullscreen view provide information about the currently playing audio.
