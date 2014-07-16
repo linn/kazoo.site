@@ -27,7 +27,7 @@ Kazoo has support for homes that have multiple DS systems. Each system in the ho
 * The currently selected room is highlighted in white
 * When moving between rooms the music will continue to play
 * Rooms in standby will have their standby button greyed out
-* To turn all systems off click the Turn all systems off button
+* To turn all systems off click the ![Turn all systems off](images/TurnAllSystemsOff.png) button
 
 ### Navigation
 
