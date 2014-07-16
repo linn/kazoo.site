@@ -79,9 +79,13 @@ The now playing and fullscreen view provide information about the currently play
 
 ### Local music library
 
+Linn DS systems can play music from computers and network attached storage (NAS) units on your home network through an additional piece of software, [Kazoo Server.](http://oss.linn.co.uk/trac/wiki/KazooServerManual).
+
+To select music from your local music library click ![Music Tile](images/MusicTile.png) 
+
 ### Radio
 
-Linn DS systems provides access to internet radio through its radio preset feature. To access these preset click on ![Radio Tile](images/RadioTile.png)
+Linn DS systems provides access to internet radio through its radio preset feature. To access a room's radio presets click ![Radio Tile](images/RadioTile.png)
 
 Linn DS systems come with a variety of preselected regional stations which can be configured using Linn Konfig.
 
