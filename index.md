@@ -43,6 +43,10 @@ Click to return to the homescreen.
 
 Click to open the volume control dialog, (if the selected room's volume can be controlled).
 
+![Now Playing View](image/NowPlayingView.png)
+
+Click to open the fullscreen view.
+
 ### Playback controls
 
 ![Playback Controls](images/PlaybackControls.png)
@@ -62,7 +66,12 @@ Provides volume controls for the selected room.
 * The inner number shows the absolute volume value
 * The outer dial shows the percentage that the current volume is of the volume limited volume
 
-### Now playing view
+### Now Playing and Fullscreen view
+
+![Now Playing View](images/NowPlayingView.png)
+![Fullscreen View](images/FullscreenView.png)
+
+The now playing and fullscreen view provide information about the currently playing audio.
 
 ## Music sources
 
