@@ -63,6 +63,7 @@ Provides volume controls for the selected room.
 2. Click and rotate anti-clockwise on the dial to turn the volume down; Alternatively click on the - button
 3. Click on the centre of the dial to toggle mute
 
+* If rooms are grouped the Master volume will affect all rooms
 * The inner number shows the absolute volume value
 * The outer dial shows the percentage that the current volume is of the volume limited volume
 
@@ -79,6 +80,10 @@ The now playing and fullscreen view provide information about the currently play
 ### Local music library
 
 ### Radio
+
+Linn DS systems provides access to internet radio through its radio preset feature. To access these preset click on ![Radio Tile](images/RadioTile.png)
+
+Linn DS systems come with a variety of preselected regional stations which can be configured using Linn Konfig.
 
 ### External inputs
 
