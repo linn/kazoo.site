@@ -107,10 +107,9 @@ All rooms grouped together play the same music in perfect synchronisation.
 
 1. Click ![Multiroom Tile](images/MultiroomTile.png)
 2. Click ![Group Button](images/GroupButton.png) on the room you want to group with other rooms
+3. Check the rooms you want to add to the group
 
 ![GroupDialog](images/GroupDialog.png)
-
-3. Check the rooms you want to add to the group
 
 * You can choose to either select and play the music you want and then group additional rooms or group rooms then select and play music
 * Rooms added to a group will immediately start playing music in perfect synchronisation
