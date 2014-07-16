@@ -35,6 +35,10 @@ Kazoo has support for homes that have multiple DS systems. Each system in the ho
 
 ### Playback controls
 
+![Playback Controls](images/PlaybackControls.png)
+
+Provides the playback controls, play/pause/stop, skip forwards and skip backwards for the selected room.
+
 ### Volume controls
 
 ### Now playing view
