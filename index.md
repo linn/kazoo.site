@@ -41,7 +41,7 @@ Click to return to the homescreen.
 
 ![Volume](images/Volume.png)
 
-Click to open the volume control dialog, (if the selected room's volume can be controlled).
+Click to open the volume control dialog, if available.
 
 ![Now Playing View](images/NowPlayingView.png)
 
@@ -81,7 +81,9 @@ The now playing and fullscreen view provide information about the currently play
 
 Linn DS systems can play music from computers and network attached storage (NAS) units on your home network through an additional piece of software, [Kazoo Server.](http://oss.linn.co.uk/trac/wiki/KazooServerManual).
 
-To select music from your local music library click ![Music Tile](images/MusicTile.png) 
+To select music from your local music library click ![Music Tile](images/MusicTile.png)
+
+* Organisation of music depends on the quality of the information contained in the music tracks
 
 ### Radio
 
@@ -98,6 +100,20 @@ Linn DS systems come with a variety of preselected regional stations which can b
 ### Managing the playlist
 
 ## Grouping rooms
+
+Linn DS systems provides the ability to different play music in every room in the house, play the same music in all rooms or play the same music in a subset of rooms.
+
+All rooms grouped together play the same music in perfect synchronisation.
+
+1. Click ![Multiroom Tile](images/MutliroomTile.png)
+2. Click ![Group Button](images/GroupButton.png) on the room you want to group with other rooms
+
+![GroupDialog](images/GroupDialog.png)
+
+3. Check the rooms you want to add to the group
+
+* You can choose to either select and play the music you want and then group additional rooms or group rooms then select and play music
+* Rooms added to a group will immediately start playing music in perfect synchronisation
 
 ### Satellite rooms
 
