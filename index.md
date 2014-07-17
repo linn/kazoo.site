@@ -88,6 +88,7 @@ Linn DS systems can play music from computers and network attached storage (NAS)
 To select music from your local music library click ![Music Tile](images/MusicTile.png)
 
 * Organisation of music depends on the quality of the information contained in the music tracks
+* To view music stored in a different library on your home network go to settings and select 
 
 ### Radio
 
@@ -102,13 +103,26 @@ Linn DS systems can play audo from external sources. To listen to an external so
 Source name can be configured using Linn Konfig.
 
 * Visible sources that are still using the factory default name can be found by clicking ![Inputs Tile](images/InputsTile.png)
-* If a source is not being used we recommend removing it from the UI by setting Visibility to false
+* If a source is not being used we recommend removing it from the UI by setting its Visibility to false
 
-## Playing music
+## Searching
 
-### Searching
+Search can be used to look for music within the ![Music Tile](images/MusicTile.png) when using KazooServer.
 
-### Managing the playlist
+Click ![Search](images/search.png} and enter the desired, partial or full, search term.
+
+As you enter the search term, matching results will being to appear.
+
+![Search Results](images/SearchResults.png)
+
+* Search results are grouped into categories, Albums, Artists, Classical and Tracks
+* The number of results for each category are shown in brackets after the category label
+* Albums shows albums who's title contains the search term
+* Artists shows artists who's name contains the search term
+* Classical shows composers who's name contains the search term
+* Tracks show tracks where any piece of track information contains the search term
+
+## Managing the playlist
 
 ## Grouping rooms
 
