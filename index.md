@@ -132,7 +132,7 @@ To view the playlist click ![Playlist Button](images/PlaylistButton.png)
 
 1. Click ![Playlist Button](images/PlaylistButton.png)
 2. Click ![Playlist Edit Button](images/PlaylistEditButton.png)
-3. Click ![Playlist Clear Button)(images/PlaylistClearButton.png)
+3. Click ![Playlist Clear Button](images/PlaylistClearButton.png)
 
 All tracks will be removed from the currently selected room's playlist.
 
