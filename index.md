@@ -124,6 +124,26 @@ As you enter the search term, matching results will being to appear.
 
 ## Managing the playlist
 
+A typical user will not need to manipulate the playlist as queue music will take care of itself, playing in the order selected by the user.
+
+To view the playlist click ![Playlist Button](images/PlaylistButton.png
+
+### Shuffle and Repeat
+
+Shuffle and Repeat controls can be found in the playlist dialog
+
+![Shuffle Button](images/Shuffle.png)
+
+Plays tracks in the playlist in a random order
+
+* Shuffle turns white when enabled
+
+![Repeat Button](images/Repeat.png)
+
+Repeats the playlist after the last track has played
+
+* Repeat turns white when enabled
+
 ## Grouping rooms
 
 Linn DS systems provides the ability to different play music in every room in the house, play the same music in all rooms or play the same music in a subset of rooms.
