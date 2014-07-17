@@ -169,12 +169,13 @@ All rooms grouped together play the same music in perfect synchronisation.
 
 ### Satellite rooms
 
-A satellite room is a room that you want to play the same music as another room but do not want it to appear as a selectable room. A good example of this behaviour is a dressing room connect to a bedroom.
+A satellite room is a room that you want to play the same music as another room but do not want it to appear as a selectable room. A good example of this behaviour is a dressing room connected to a bedroom.
 
 To make a room a satellite of another room you need to configure the Receiver source's name of the satellite room to be that of the main room. You can do this using Linn Konfig.
 
 If we take the Bedroom/Dressing Room example we would set the Dessing Room's Receiver source's name to Bedroom.
 
 * If a satellite room is not playing the same as the main room click ![Satellite Dialog](images/SatelliteButton.png) and ensure the room is ticked
+* The satellite icon will only be visible if there is a satellite room associated with the currently selected room
 
 ## Troubleshooting
