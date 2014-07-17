@@ -126,7 +126,7 @@ As you enter the search term, matching results will being to appear.
 
 A typical user will not need to manipulate the playlist as queue music will take care of itself, playing in the order selected by the user.
 
-To view the playlist click ![Playlist Button](images/PlaylistButton.png
+To view the playlist click ![Playlist Button](images/PlaylistButton.png)
 
 ### Shuffle and Repeat
 
