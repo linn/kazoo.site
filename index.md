@@ -91,11 +91,18 @@ To select music from your local music library click ![Music Tile](images/MusicTi
 
 ### Radio
 
-Linn DS systems provides access to internet radio through its radio preset feature. To access a room's radio presets click ![Radio Tile](images/RadioTile.png)
+Linn DS systems can play internet radio through radio presets. To access a room's radio presets click ![Radio Tile](images/RadioTile.png)
 
 Linn DS systems come with a variety of preselected regional stations which can be configured using Linn Konfig.
 
 ### External inputs
+
+Linn DS systems can play audo from external sources. To listen to an external source select the tile with the source's name from the homepage.
+
+Source name can be configured using Linn Konfig.
+
+* Visible sources that are still using the factory default name can be found by clicking ![Inputs Tile](images/InputsTile.png)
+* If a source is not being used we recommend removing it from the UI by setting Visibility to false
 
 ## Playing music
 
