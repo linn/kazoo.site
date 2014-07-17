@@ -107,7 +107,7 @@ Source name can be configured using Linn Konfig.
 
 ## Searching
 
-Search can be used to look for music within the ![Music Tile](images/MusicTile.png) when using KazooServer.
+Search can be used to look for music within ![Music Tile](images/MusicTile.png) when using KazooServer.
 
 Click ![Search](images/search.png} and enter the desired, partial or full, search term.
 
