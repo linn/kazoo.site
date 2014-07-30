@@ -35,21 +35,14 @@ Selects a room to play music in.
 * Rooms in standby will have their standby button greyed out
 * To turn all systems off click ![Turn all systems off](images/TurnAllSystemsOff.png)
 
-![Home](images/Home.png)
+To return to the homescreen click ![Home](images/Home.png)
 
-Click to return to the homescreen.
+To open the volume control dialog (if available) click ![Volume](images/Volume.png)
 
-![Volume](images/Volume.png)
+To open the fullscreen view click ![Now Playing View](images/NowPlayingView.png)
 
-Click to open the volume control dialog, if available.
+To view a room's satellite rooms and whether they are enabled click ![Satellite Dialog](images/SatelliteButton.png)
 
-![Now Playing View](images/NowPlayingView.png)
-
-Click to open the fullscreen view.
-
-![Satellite Dialog](images/SatelliteButton.png)
-
-Click to view a room's satellite rooms and whether they are enabled.
 
 ### Playback controls
 
