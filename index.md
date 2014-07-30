@@ -26,9 +26,7 @@ Kazoo has support for homes that have multiple DS systems. Each system in the ho
 Selects a room to play music in.
 
 1. Click ![Room Selection](images/RoomName.png) to show the room selection dialog
-2. Click on the desired room name.
-
-![Room Selection Dialog](images/RoomSelectionDialog.png)
+2. Click on the desired room name ![Room Selection Dialog](images/RoomSelectionDialog.png)
 
 * The currently selected room is highlighted in white
 * When moving between rooms the music will continue to play
