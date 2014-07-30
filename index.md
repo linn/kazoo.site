@@ -33,7 +33,7 @@ Selects a room to play music in.
 * The currently selected room is highlighted in white
 * When moving between rooms the music will continue to play
 * Rooms in standby will have their standby button greyed out
-* To turn all systems off click the ![Turn all systems off](images/TurnAllSystemsOff.png) button
+* To turn all systems off click ![Turn all systems off](images/TurnAllSystemsOff.png)
 
 ![Home](images/Home.png)
 
