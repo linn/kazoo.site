@@ -1,4 +1,4 @@
 ---
-title: Downloads
+layout: Page
 ---
 asdasda
