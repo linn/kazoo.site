@@ -42,6 +42,12 @@
           checkbox.checked = false;
         }, false);
       })(document);
-    </script>
+      
+    function autoResizeHeight(id){
+        var newheight=document.getElementById(id).contentWindow.document .body.scrollHeight;
+        document.getElementById(id).height= (newheight) + "px";
+    }
+
+</script>
   </body>
 </html>
