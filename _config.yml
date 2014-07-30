@@ -1,5 +1,5 @@
 markdown: kramdown
-baseurl: ''
+baseurl: '/'
 title:  'Kazoo'
 tagline: 'choose music and control your system'
 url: 'https://github.com/linn/kazoo.site'
