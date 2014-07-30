@@ -4,6 +4,6 @@ title:  'Kazoo'
 tagline: 'choose music and control your system'
 url: 'https://github.com/linn/kazoo.site'
 permalink: pretty
-description: 'Use Linn’s latest control app to select and play music on your Linn DS/DSM.  Kazoo offers a host of new features over Kinsky: browse music by album art in ‘tile’ view; find music quickly using search*; group rooms together and browse classical music by composer.
-Kazoo is available for iPad, Windows and Mac.<br/>
-*Search functionality requires Kazoo Server'
+description: 'Use Linn’s latest control app to select and play music on your Linn DS/DSM.<br/><br/>  Kazoo offers a host of new features over Kinsky <ul><li>browse music by album art in ‘tile’ view</li><li>find music quickly using search*</li> <li>group rooms together and browse classical music by composer</li></ul>
+<br/><br/>Kazoo is available for iPad, Windows and Mac.<br/><br/>
+<small>*Search functionality requires Kazoo Server</small>
