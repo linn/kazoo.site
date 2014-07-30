@@ -133,17 +133,11 @@ All tracks will be removed from the currently selected room's playlist.
 
 Shuffle and Repeat controls can be found in the playlist dialog
 
-![Shuffle Button](images/Shuffle.png)
+To play tracks in the playlist in a random order click ![Shuffle Button](images/Shuffle.png)
+Shuffle turns white when enabled
 
-Plays tracks in the playlist in a random order
-
-* Shuffle turns white when enabled
-
-![Repeat Button](images/Repeat.png)
-
-Repeats the playlist after the last track has played
-
-* Repeat turns white when enabled
+To repeat the playlist after the last track has played click ![Repeat Button](images/Repeat.png)
+Repeat turns white when enabled
 
 ## Grouping rooms
 
