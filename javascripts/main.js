@@ -1,1 +1,13 @@
-console.log('This would be the main JS file.');
+<script type="text/javascript">
+         function calcHeight()
+         {
+         //find the height of the internal page
+         var the_height=
+         document.getElementById('the_iframe').contentWindow.
+         document.body.scrollHeight;
+
+         //change the height of the iframe
+         document.getElementById('the_iframe').height=
+         the_height;
+         }
+</script>
