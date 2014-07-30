@@ -6,3 +6,4 @@ url: 'https://github.com/linn/kazoo.site'
 permalink: pretty
 description: 'Kazoo is Linn’s latest control app to select and play music on your Linn DS/DSM.<ul><li>browse music by album art in ‘tile’ view</li><li>find music quickly using search*</li> <li>group rooms together and browse classical music by composer</li></ul>
 <small>*Search functionality requires Kazoo Server</small>'
+homeurl: 'http://linn.github.io/kazoo.site/'
