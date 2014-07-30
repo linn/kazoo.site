@@ -179,4 +179,11 @@ If we take the Bedroom/Dressing Room example we would set the Dessing Room's Rec
 * The satellite icon will only be visible if there is a satellite room associated with the currently selected room
 * Satellite rooms do not appear as an independently selectable room
 
-## Troubleshooting
+
+
+
+
+
+
+
+
