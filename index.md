@@ -25,31 +25,22 @@ Kazoo has support for homes that have multiple DS systems. Each system in the ho
 
 Selects a room to play music in.
 
-1. Click ![Room Selection](images/RoomName.png) to show the room selection dialog
-2. Click on the desired room name.
-
-![Room Selection Dialog](images/RoomSelectionDialog.png)
+1. To show the room selection dialog click ![Room Selection](images/RoomName.png)
+2. Click on the desired room name ![Room Selection Dialog](images/RoomSelectionDialog.png)
 
 * The currently selected room is highlighted in white
 * When moving between rooms the music will continue to play
 * Rooms in standby will have their standby button greyed out
-* To turn all systems off click the ![Turn all systems off](images/TurnAllSystemsOff.png) button
+* To turn all systems off click ![Turn all systems off](images/TurnAllSystemsOff.png)
 
-![Home](images/Home.png)
+To return to the homescreen click ![Home](images/Home.png)
 
-Click to return to the homescreen.
+To open the volume control dialog (if available) click ![Volume](images/Volume.png)
 
-![Volume](images/Volume.png)
+To open the fullscreen view click ![Now Playing View](images/NowPlayingView.png)
 
-Click to open the volume control dialog, if available.
+To view a room's satellite rooms and whether they are enabled click ![Satellite Dialog](images/SatelliteButton.png)
 
-![Now Playing View](images/NowPlayingView.png)
-
-Click to open the fullscreen view.
-
-![Satellite Dialog](images/SatelliteButton.png)
-
-Click to view a room's satellite rooms and whether they are enabled.
 
 ### Playback controls
 
@@ -140,17 +131,11 @@ All tracks will be removed from the currently selected room's playlist.
 
 Shuffle and Repeat controls can be found in the playlist dialog
 
-![Shuffle Button](images/Shuffle.png)
+To play tracks in the playlist in a random order click ![Shuffle Button](images/Shuffle.png)
+*Shuffle turns white when enabled*
 
-Plays tracks in the playlist in a random order
-
-* Shuffle turns white when enabled
-
-![Repeat Button](images/Repeat.png)
-
-Repeats the playlist after the last track has played
-
-* Repeat turns white when enabled
+To repeat the playlist after the last track has played click ![Repeat Button](images/Repeat.png)
+*Repeat turns white when enabled*
 
 ## Grouping rooms
 
@@ -179,4 +164,11 @@ If we take the Bedroom/Dressing Room example we would set the Dessing Room's Rec
 * The satellite icon will only be visible if there is a satellite room associated with the currently selected room
 * Satellite rooms do not appear as an independently selectable room
 
-## Troubleshooting
+
+
+
+
+
+
+
+
