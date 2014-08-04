@@ -154,7 +154,7 @@ All rooms grouped together play the same music in perfect synchronisation.
 
 ## Permanent grouping of rooms
 
-A permanent subzone is a room that plays the same music as another room but does not appear as a selectable room. An example of this behaviour is a dressing room connected to a bedroom. In most situations a listener would want both rooms to play the same music but be able to control the volume in each room independently.
+A permanent room is a room that plays the same music as another room but does not appear as a selectable room. An example of this behaviour is a dressing room connected to a bedroom. In most situations a listener would want both rooms to play the same music but be able to control the volume in each room independently.
 
 To make a room a permanently part of a group you need to configure your Linn system using Konfig. To add a room to as a permanent member of a group you must configure the name of the room's Receiver source, (it's default name is Songcast), to be that of the group.
 
