@@ -39,7 +39,7 @@ To open the volume control dialog (if available) click ![Volume](images/Volume.p
 
 To open the fullscreen view click ![Now Playing View](images/NowPlayingView.png)
 
-To view a room's satellite rooms and whether they are enabled click ![Satellite Dialog](images/SatelliteButton.png)
+To view a room's permanent subzones and whether they are enabled click ![Satellite Dialog](images/SatelliteButton.png)
 
 
 ### Playback controls
@@ -74,7 +74,7 @@ The now playing and fullscreen view provide information about the currently play
 
 ### Local music library
 
-Linn DS systems can play music from computers and network attached storage (NAS) units on your home network through an additional piece of software, [Kazoo Server.](http://oss.linn.co.uk/trac/wiki/KazooServerManual).
+Linn DS systems can play music from computers and network attached storage (NAS) units on your home network through an additional piece of software, [Kazoo Server](http://oss.linn.co.uk/trac/wiki/KazooServerManual).
 
 To select music from your local music library click ![Music Tile](images/MusicTile.png)
 
@@ -137,7 +137,7 @@ To play tracks in the playlist in a random order click ![Shuffle Button](images/
 To repeat the playlist after the last track has played click ![Repeat Button](images/Repeat.png)
 *Repeat turns white when enabled*
 
-## Grouping rooms
+## Dynamic grouping of rooms
 
 Linn DS systems provides the ability to different play music in every room in the house, play the same music in all rooms or play the same music in a subset of rooms.
 
@@ -152,17 +152,17 @@ All rooms grouped together play the same music in perfect synchronisation.
 * You can choose to either select and play the music you want and then group additional rooms or group rooms then select and play music
 * Rooms added to a group will immediately start playing music in perfect synchronisation
 
-### Satellite rooms
+### Permanent grouping of rooms
 
-A satellite room is a room that you want to play the same music as another room but do not want it to appear as a selectable room. A good example of this behaviour is a dressing room connected to a bedroom.
+A permanent subzone is a room that plays the same music as another room but does not appear as a selectable room. An example of this behaviour is a dressing room connected to a bedroom. In most situations a listener would want both rooms to play the same music but be able to control the volume in each room independently.
 
-To make a room a satellite of another room you need to configure the Receiver source's name of the satellite room to be that of the main room. You can do this using Linn Konfig.
+To make a room a permanently part of a group you need to configure your Linn system using Konfig. To add a room to as a permanent member of a group you must configure the name of the room's Receiver source, (it's default name is Songcast), to be that of the group.
 
-If we take the Bedroom/Dressing Room example we would set the Dessing Room's Receiver source's name to Bedroom.
+In our example of a bedroom, called "Bedroom", with a dressing room, called "Dressing Room", you would configure the name of the dressing room's Receiver source to "Bedroom".
 
-* If a satellite room is not playing the same as the main room click ![Satellite Dialog](images/SatelliteButton.png) and ensure the room is ticked
-* The satellite icon will only be visible if there is a satellite room associated with the currently selected room
-* Satellite rooms do not appear as an independently selectable room
+* If a permanently grouped room is not playing the same as the group click ![Satellite Dialog](images/SatelliteButton.png) and ensure the room is ticked
+* The permanent grouped icon will only be visible if there is a permanently grouped room associated with the currently selected room
+* Rooms that are permanently grouped do not appear as an selectable room
 
 
 
