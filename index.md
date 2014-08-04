@@ -152,7 +152,7 @@ All rooms grouped together play the same music in perfect synchronisation.
 * You can choose to either select and play the music you want and then group additional rooms or group rooms then select and play music
 * Rooms added to a group will immediately start playing music in perfect synchronisation
 
-### Permanent grouping of rooms
+## Permanent grouping of rooms
 
 A permanent subzone is a room that plays the same music as another room but does not appear as a selectable room. An example of this behaviour is a dressing room connected to a bedroom. In most situations a listener would want both rooms to play the same music but be able to control the volume in each room independently.
 
