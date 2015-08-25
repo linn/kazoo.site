@@ -67,9 +67,9 @@ Provides volume controls for the selected room.
 
 ### Now Playing and Full screen view
 
-![Now Playing View|floatcentre](images/NowPlayingView.png)
+![Now Playing View](images/NowPlayingView.png)
 
-![Fullscreen View|floatcentre](images/FullscreenView.png)
+![Fullscreen View](images/FullscreenView.png)
 
 The now playing and full screen view provide information about the currently playing audio.
 
