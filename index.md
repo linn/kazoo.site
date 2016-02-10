@@ -86,7 +86,7 @@ Linn DS systems can play music from computers and network attached storage (NAS)
 * To view music stored in a different library on your home network go to settings and select your new Media Server/library
 
 
-###My Playlists
+### My Playlists
 You can save and recall Playlists with Kazoo. To recall an existing Playlist click
 
 ![My Playlists Tile](images/MyPlaylistsTile.png) 
@@ -117,7 +117,7 @@ You can select any New tracks, list Music by Genre, List Music by Genre or check
 <img style="floatcentre" src="images/TidalGenre.jpg"  />
 
 
-###Qobuz
+### Qobuz
 
 Qobuz streaming services can be select by clicking
 
@@ -182,7 +182,7 @@ To play tracks in the playlist in a random order click ![Shuffle Button](images/
 To repeat the playlist after the last track has played click ![Repeat Button](images/Repeat.png)
 *Repeat turns white when enabled*
 
-###Saving a Playlist
+### Saving a Playlist
 
 You can Save playlists using the Save button located on the Playlist dialogue
 <img style="floatcentre" src="images/PlaylistSave.png"  />
