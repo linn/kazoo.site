@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Kazoo User Guide for Windows and iMac
 ---
 
