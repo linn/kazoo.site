@@ -36,7 +36,7 @@ Selects a room to play music in.
 
 1. To show the room selection dialogue click 
 2. Click on the desired room name  <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-Room.jpg" />
-3. 
+
 
 * The currently selected room is highlighted in white
 * When moving between rooms the music will continue to play
@@ -128,14 +128,14 @@ This will give you the Tidal screen.
 You can select any New tracks, list Music by Genre, List Music by Genre or check out your own account favourites in "My Tidal"
 
  <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-Tidal.png"  />
->
+
 
 
 ### Qobuz
 
 Qobuz streaming services can be select by clicking
 
-![Qobuz Tile(/imagess/QobuzTile.png) 
+ <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/QobuzTile.png" />
 
 If a Qobuz streaming account has not been assigned to Kazoo or your Linn DS, you will get the Login screen to enter your Username and Password for your Qobuz account.
 
@@ -158,9 +158,9 @@ Source name can be configured using Linn Konfig.
 
 ## Searching
 
-Search can be used to look for music within  <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/MyMusicTile.jpg" /> when using KazooServer.
+Search can be used to look for music within  ![MusicTile]("http://linn.github.io/kazoo.site/images/MyMusicTile.jpg") when using KazooServer.
 
-Click !<img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-Search-Tile.png" />) and enter the desired, partial or full, search term.
+Click <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-Search-Tile.png" /> and enter the desired, partial or full, search term.
 
 As you enter the search term, matching results will being to appear.
 
@@ -205,7 +205,6 @@ To repeat the playlist after the last track has played click  <img style="floatc
 
 You can Save playlists using the Save button located on the Playlist dialogue
  <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-PlaylistSave.png"  />
->
 
 
 
@@ -221,7 +220,7 @@ All rooms grouped together play the same music in perfect synchronisation.
 2. Click <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/GroupButton.png" /> on the room you want to group with other rooms
 3. Check the rooms you want to add to the group
 
-<img style="floatcentre" img align= "middle" src="http://linn.github.io/kazoo.site/images/And-GroupDialog.png"  />  
+           <img style="floatcentre" img align= "middle" src="http://linn.github.io/kazoo.site/images/And-GroupDialog.png"  />  
 
         
 
@@ -245,7 +244,7 @@ In our example of a bedroom, called "Bedroom", with a dressing room, called "Dre
 
 * If a permanently grouped room is not playing the same as the group click  <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/SatelliteButton.png" /> and ensure the room is ticked
       <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/iPad-PermanentGrouping.jpg"  />  
->  
+
 
 
 * The permanent grouped icon will only be visible if there is a permanently grouped room associated with the currently selected room
