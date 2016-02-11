@@ -197,22 +197,22 @@ Within the Music Source when you select some Music you will see the **Play Now**
 
 Press the **More** and you get more options of **Play next**, **Play later**,  **Add to..** and **Album info** / **Track info**
 
-Will play the first track(s) immediately<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/PLAY_NOW.png" />
+**Play Now** Will play the first track(s) immediately<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/PLAY_NOW.png" />
 
 
-Will add the track(s) to the END of the current Playlist. (last track to play)<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/Play_Later.png" /> 
+**Play Later** Will add the track(s) to the END of the current Playlist. (last track to play)<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/Play_Later.png" /> 
 
 
-Will add the track(s) to be the next one to Play (as long as you are not in Shuffle mode)<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/PLAY_NEXT.png" /> 
+**Play next** Will add the track(s) to be the next one to Play (as long as you are not in Shuffle mode)<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/PLAY_NEXT.png" /> 
 
 
-Add the track(s) to the selected saved Playlist.<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/Add_To.png" /> 
+**Add to..** Add the track(s) to the selected saved Playlist.<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/Add_To.png" /> 
 
 
-Reports the Album information provided by the Music source<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/Album_Info.png" /> 
+**Album info** Reports the Album information provided by the Music source<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/Album_Info.png" /> 
 
 
-<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/Track_info.png" />Reports the track  information provided by the Music source
+**Track info** Reports the track  information provided by the Music source<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/Track_info.png" />
 
 
 
