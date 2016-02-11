@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kazoo User Guide
+title: Kazoo User Guide for Windows/iMac
 ---
 [HOME](http://docs.linn.co.uk/wiki/index.php/Products)
 

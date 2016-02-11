@@ -45,7 +45,7 @@ Selects a room to play music in.
 
 
 To return to the homescreen click  <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-BackArrow.jpg" />  or slide your finger from the left most part of the Android screen to bring you to the Sources page
- <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-Sources-Open.png" />
+ <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-Sources-open.jpg" />
 
 
 
@@ -195,10 +195,10 @@ All tracks will be removed from the currently selected room's playlist.
 
 Shuffle and Repeat controls can be found in the playlist dialogue
 
-To play tracks in the playlist in a random order click ![Shuffle Button](/images/Shuffle.png)
+To play tracks in the playlist in a random order click  <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/Shuffle.png" />
 *Shuffle turns white when enabled*
 
-To repeat the playlist after the last track has played click ![Repeat Button](/images/Repeat.png)
+To repeat the playlist after the last track has played click  <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/Repeat.png" />
 *Repeat turns white when enabled*
 
 ### Saving a Playlist
