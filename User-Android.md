@@ -158,7 +158,7 @@ Source name can be configured using Linn Konfig.
 
 ## Searching
 
-Search can be used to look for music within  ![MusicTile]("http://linn.github.io/kazoo.site/images/MyMusicTile.jpg") when using KazooServer.
+Search can be used to look for music within  <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/MyMusicTile.jpg" /> when using KazooServer.
 
 Click <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-Search-Tile.png" /> and enter the desired, partial or full, search term.
 
