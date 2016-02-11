@@ -189,6 +189,29 @@ As you enter the search term, matching results will being to appear.
 
 ## Managing the playlist
 
+### Adding to the Playlist
+<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/iPad-Playorder.jpg" />
+
+Within the Music Source when you select some Music you will see the **Play Now**, **Play Later** and **More** buttons.
+<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/More.png" />
+Press the **More** and you get more options of **Play next**, **Play later**,  **Add to..** and **Album info** / **Track info**
+
+<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/PLAY_NOW.png" /> Will play the first track(s) immediately
+
+<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/Pay_Later.png" /> Will add the track(s) to the END of the current Playlist. (last track to play)
+
+<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/PLAY_NEXT.png" /> Will add the track(s) to be the next one to Play (as long as you are not in Shuffle mode)
+
+<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/Add_To.png" /> Add the track(s) to the selected saved Playlist.
+
+<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/Album_Info.png" /> reports the Album information provided by the Music source
+
+<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/Track_info.png" /> reports the track  information provided by the Music source
+
+
+
+### Playlist editing
+
 A typical user will not need to manipulate the playlist as queue music will take care of itself, playing in the order selected by the user.
 
 To view the playlist click <img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/PlaylistButton.png" />
