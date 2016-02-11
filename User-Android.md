@@ -16,9 +16,9 @@ Kazoo provides simple and intuitive way to play music all around your home.
 
 You can view your Music sources content without stopping what you are listening to.
 
-Kazoo has been designed to control Linn DS systems and Kazoo Server. Kazoo will also work with 3rd party UPnP/AV media servers, but for the best music experience, we recommend using Kazoo with Kazoo Server.
+Kazoo has been designed to control Linn DS systems and Kazoo Server. Kazoo will also work with 3rd party UPnP/AV media servers, but for the best music experience, we recommend using  [Kazoo](http://www.linn.co.uk/software#kazoo) with [Kazoo Server](http://www.linn.co.uk/software#kazoo-server).
 
-Kazoo is available for iPad (iOS 6.0 and later), Windows (Windows XP SP3 and later) and Mac (Lion and later).
+[Kazoo](http://www.linn.co.uk/software#kazoo) is available for iPad (iOS 8.0 and later), Android (4.1 and later), Windows (Windows XP SP3 and later) and Mac (Lion and later).
 
 ## Operation
 

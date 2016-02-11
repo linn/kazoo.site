@@ -35,7 +35,7 @@ Click <img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/Boo
 
 This will let you select the UPnP Media server, Register your Linn Products, prevent iPad/iPhone lock and report any issues/improvements to Linn Products.
 
-<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/iPad-settings-page.jpg" />
+<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/iPad-Settings-page.jpg" />
 
 Make sure that you have a Media Server selected, press the Media Server box and select a device, before using this software.
 
@@ -202,7 +202,7 @@ All tracks will be removed from the currently selected room's playlist.
 
 To delete tracks: <img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/iPad-Playlist-track-delete.png" />
 
-and delete each track using  <img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/iPad-Track-Del_but.png" /> 
+and delete each track using  <img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/iPad-Track-Del_but.png" />  Followed by the red "Delete" button 
 
 ### Shuffle and Repeat
 
