@@ -220,7 +220,7 @@ All rooms grouped together play the same music in perfect synchronisation.
 2. Click <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/GroupButton.png" /> on the room you want to group with other rooms
 3. Check the rooms you want to add to the group
 
-           <img style="floatcentre" img align= "middle" src="http://linn.github.io/kazoo.site/images/And-GroupDialog.png"  />  
+<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/And-GroupDialog.png"  />  
 
         
 
