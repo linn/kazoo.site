@@ -160,11 +160,9 @@ Source name can be configured using Linn Konfig.
 
 Search can be used to look for music within  <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/MyMusicTile.jpg" /> when using KazooServer.
 
-Click <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-Search-Tile.png" /> and enter the desired, partial or full, search term.
+<img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-Search-Tile.png" /> Click the search button and enter the desired, partial or full, search term.
 
-As you enter the search term, matching results will being to appear.
-
- <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-Playlist-search.png" />
+As you enter the search term, matching results will being to appear. <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-Playlist-search.png" />
 
 * Search results are grouped into categories, Albums, Artists, Classical and Tracks
 * The number of results for each category are shown in brackets after the category label
@@ -218,9 +216,7 @@ All rooms grouped together play the same music in perfect synchronisation.
 
 1. Click <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/MultiroomTile.png" />
 2. Click <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/GroupButton.png" /> on the room you want to group with other rooms
-3. Check the rooms you want to add to the group
-
-<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/And-GroupDialog.png"  />  
+3. Check the rooms you want to add to the group <img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/And-GroupDialog.png"  />  
 
         
 

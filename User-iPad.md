@@ -17,9 +17,9 @@ Kazoo provides simple and intuitive way to play music all around your home.
 
 You can view your Music sources content without stopping what you are listening to.
 
-Kazoo has been designed to control Linn DS systems and Kazoo Server. Kazoo will also work with 3rd party UPnP/AV media servers, but for the best music experience, we recommend using Kazoo with Kazoo Server.
+Kazoo has been designed to control Linn DS systems and Kazoo Server. Kazoo will also work with 3rd party UPnP/AV media servers, but for the best music experience, we recommend using  [Kazoo](http://www.linn.co.uk/software#kazoo) with [Kazoo Server](http://www.linn.co.uk/software#kazoo-server).
 
-Kazoo is available for iPad (iOS 6.0 and later), Windows (Windows XP SP3 and later) and Mac (Lion and later).
+[Kazoo](http://www.linn.co.uk/software#kazoo) is available for iPad (iOS 8.0 and later), Android (4.1 and later), Windows (Windows XP SP3 and later) and Mac (Lion and later).
 
 ## Operation
 
@@ -30,20 +30,28 @@ Kazoo has support for homes that have multiple DS systems. Each system in the ho
 
 
 
+### Settings
+Click <img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/Book-icon.jpg" /> Then <img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/iPad-settings.jpg" />
 
+This will let you select the UPnP Media server, Register your Linn Products, prevent iPad/iPhone lock and report any issues/improvements to Linn Products.
 
+<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/iPad-settings-page.jpg" />
+
+Make sure that you have a Media Server selected, press the Media Server box and select a device, before using this software.
 
 
 
 ### Navigation
 
-<!-- ![Room Selection](/images/RoomName.png) -->
+
+
+
  <img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/RoomName.png"  />  
 
 Selects a room to play music in.
 
 1. To show the room selection dialogue click   <img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/RoomName.png"  /> 
-
+(This may take its time as the iPad/iPhone is also trying to talk to your UPnP Media server as well as finding your room.)
 
 2. Click on the desired room name <img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/RoomSelectionDialog.png" />
 
@@ -97,7 +105,7 @@ The now playing and full screen view provide information about the currently pla
 ## Music sources
 
 ### Local music library
-Linn DS systems can play music from computers and network attached storage (NAS) units on your home network through an additional piece of software, [Kazoo Server](http://oss.linn.co.uk/trac/wiki/KazooServerManual).
+Linn DS systems can play music from computers and network attached storage (NAS) units on your home network through an additional piece of software, [Kazoo Server](http://www.linn.co.uk/software#kazoo-server).
 
 
  To select music from your local music library
@@ -157,10 +165,10 @@ You can Discover new Music, select you purchased Music (If you have a Qobuz HiFi
 
 Linn DS systems can play audio from external sources. To listen to an external source select the tile with the source's name from the homepage.
 
-Source name can be configured using Linn Konfig.
+Source name can be configured using Linn [Konfig](http://www.linn.co.uk/software#konfig).
 
 * Visible sources that are still using the factory default name can be found by clicking <img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/InputsTile.png" />
-* If a source is not being used we recommend removing it from the UI by setting its Visibility to false
+* If a source is not being used we recommend removing it from the UI by setting its Visibility to false in Konfig
 
 ## Searching
 
@@ -187,11 +195,14 @@ To view the playlist click <img style="floatcentre"  src="http://linn.github.io/
 
 ### Clearing the playlist
 
-1. Click <img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/PlaylistButton.png" />
-2. Click <img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/PlaylistEditButton.png" />
-3. Click <img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/PlaylistClearButton.png" />
+To delete to whole Playlist: 
+ <img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/iPad-Playlist-Clear-seq.png" />  
 
 All tracks will be removed from the currently selected room's playlist.
+
+To delete tracks: <img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/iPad-Playlist-track-delete.png" />
+
+and delete each track using  <img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/iPad-Track-Del_but.png" /> 
 
 ### Shuffle and Repeat
 
@@ -232,7 +243,7 @@ All rooms grouped together play the same music in perfect synchronisation.
 
 A permanent room is a room that plays the same music as another room but does not appear as a selectable room. An example of this behaviour is a dressing room connected to a bedroom. In most situations a listener would want both rooms to play the same music but be able to control the volume in each room independently.
 
-To make a room a permanently part of a group you need to configure your Linn system using Konfig. To add a room to as a permanent member of a group you must configure the name of the room's Receiver source, (it's default name is Songcast), to be that of the group.
+To make a room a permanently part of a group you need to configure your Linn system using [Konfig](http://www.linn.co.uk/software#konfig). To add a room to as a permanent member of a group you must configure the name of the room's Receiver source, (it's default name is Songcast), to be that of the group.
 
 1. Go into Konfig and select the Room that will always be the source of the Music, we will call this the "sender" room
 2. Select the *Device* tab and copy the "**Room**" name
