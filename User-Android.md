@@ -2,6 +2,11 @@
 layout: default
 title: Kazoo User Guide for Android
 ---
+[HOME](http://docs.linn.co.uk/wiki/index.php/Products)
+
+[Windows / iMac Kazoo User Guide](http://linn.github.io/kazoo.site/)
+
+[iPad/iPhone Kazoo User Guide](http://linn.github.io/kazoo.site/User-iPad/)
 
 # Kazoo User Guide for Android
 
@@ -19,49 +24,49 @@ Kazoo is available for iPad (iOS 6.0 and later), Windows (Windows XP SP3 and lat
 
 Kazoo has support for homes that have multiple DS systems. Each system in the home should be given a unique room name. A system's room name can be configured using Linn Konfig.
 
-![Android Home View](/images/And-Home.png)
+ <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-Home.png" />
 
 
 ### Navigation
 
-![Room Selection](/images/Home.png)
+ <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/Home.png" />
 
 
 Selects a room to play music in.
 
 1. To show the room selection dialogue click 
-2. Click on the desired room name ![Room Selection Dialogue](/images/And-Room.jpg)
+2. Click on the desired room name  <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-Room.jpg" />
 3. 
 
 * The currently selected room is highlighted in white
 * When moving between rooms the music will continue to play
 * Rooms in standby will have their standby button greyed out
-* To turn all systems off click ![Turn all systems off](/images/And-ShudownAll.png)
+* To turn all systems off click  <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-ShudownAll.png" />
 
 
-To return to the homescreen click ![Home]/(/images/And-BackArrow.jpg)  or slide your finger from the left most part of the Android screen to bring you to the Sources page
-![Home](/images/And-Sources-Open.png)
+To return to the homescreen click  <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-BackArrow.jpg" />  or slide your finger from the left most part of the Android screen to bring you to the Sources page
+ <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-Sources-Open.png" />
 
 
 
 
 
-To open the volume control dialogue (if available) click ![Volume](/images/Volume.png)
+To open the volume control dialogue (if available) click  <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/Volume.png" />
 
-To open the fullscreen view click ![Now Playing View](/images/NowPlayingView.png)
+To open the fullscreen view click  <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/NowPlayingView.png" />
 
-To view a room's permanent sub-zones and whether they are enabled click ![Satellite Dialog](/images/SatelliteButton.png)
+To view a room's permanent sub-zones and whether they are enabled click  <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/SatelliteButton.png" />
 
 
 ### Playback controls
 
-![Playback Controls](/images/PlaybackControls.png)
+ <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/PlaybackControls.png" />
 
 Provides the playback controls, play/pause/stop, skip forwards and skip backwards for the selected room.
 
 ### Volume controls
 
-![Volume Control Dialog](/images/VolumeControlDialog.png)
+ <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/VolumeControlDialog.png" />
 
 Provides volume controls for the selected room.
 
@@ -75,9 +80,9 @@ Provides volume controls for the selected room.
 
 ### Now Playing and Full screen view
 
-![Now Playing View](/images/NowPlayingView.png)
+ <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/NowPlayingView.png" />
 
-![Fullscreen View](/images/FullscreenView.png)
+ <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/FullscreenView.png" />
 
 The now playing and full screen view provide information about the currently playing audio.
 
@@ -88,7 +93,7 @@ Linn DS systems can play music from computers and network attached storage (NAS)
 
 
  To select music from your local music library
-  ![Music Tile](/images/MyMusicTile.jpg) 
+ <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/MyMusicTile.jpg" />
   
 * Organisation of music depends on the quality of the information contained in the music tracks
 * To view music stored in a different library on your home network go to settings and select your new Media Server/library
@@ -97,7 +102,7 @@ Linn DS systems can play music from computers and network attached storage (NAS)
 ### My Playlists
 You can save and recall Playlists with Kazoo. To recall an existing Playlist click
 
-![My Playlists Tile](/images/MyPlaylistsTile.png) 
+ <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/MyPlaylistsTile.png" />
 
 This will show you the Playlists you have save on that control device: PC, MAC, iPad etc. You can select the whole Playlist of tracks within each Playlist.
 
@@ -105,7 +110,7 @@ This will show you the Playlists you have save on that control device: PC, MAC, 
 ### Radio
 Linn DS systems can play internet radio through radio preset's. To access a room's radio preset list click
 
-![Radio Tile(/imagess/RadioTile.png) 
+ <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/RadioTile.png" />
 
 Linn DS systems come with a variety of preselected regional stations which can be configured using Linn Konfig.
 You can also use your Tunein account name for your own preset list
@@ -114,7 +119,7 @@ You can also use your Tunein account name for your own preset list
 ### Tidal
 Tidal streaming services can be select by clicking
 
-![Tidal Tile(/imagess/TidalTile.png) 
+ <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/TidalTile.png" />
 
 If a Tidal streaming account has not been assigned to Kazoo or your Linn DS, you will get the Login screen to enter your Username and Password for your Tidal account.
 
@@ -122,7 +127,7 @@ If a Tidal streaming account has not been assigned to Kazoo or your Linn DS, you
 This will give you the Tidal screen. 
 You can select any New tracks, list Music by Genre, List Music by Genre or check out your own account favourites in "My Tidal"
 
- <img style="floatcentre" src="/images/And-Tidal.png"  />
+ <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-Tidal.png"  />
 >
 
 
@@ -137,7 +142,7 @@ If a Qobuz streaming account has not been assigned to Kazoo or your Linn DS, you
 
 This will give you the Qobuz main screen
 You can Discover new Music, select you purchased Music (If you have a Qobuz HiFi Sublime account this can be played in Studio Master quality)  or check out your own account favourites in "My Qobuz"
-<img style="floatcentre" src="images/And-Qobuz.png"  />
+ <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-Qobuz.png"  />
 >
 
 
@@ -148,18 +153,18 @@ Linn DS systems can play audio from external sources. To listen to an external s
 
 Source name can be configured using Linn Konfig.
 
-* Visible sources that are still using the factory default name can be found by clicking ![Inputs Tile(/images/InputsTile.png)
+* Visible sources that are still using the factory default name can be found by clicking  <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/InputsTile.png" />
 * If a source is not being used we recommend removing it from the UI by setting its Visibility to false
 
 ## Searching
 
-Search can be used to look for music within ![Music Tile](/images/MyMusicTile.jpg) when using KazooServer.
+Search can be used to look for music within  <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/MyMusicTile.jpg" /> when using KazooServer.
 
-Click ![Search](/images/And-Search-Tile.png) and enter the desired, partial or full, search term.
+Click !<img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-Search-Tile.png" />) and enter the desired, partial or full, search term.
 
 As you enter the search term, matching results will being to appear.
 
-![Search Results](/images/And-Playlist-search.png)
+ <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-Playlist-search.png" />
 
 * Search results are grouped into categories, Albums, Artists, Classical and Tracks
 * The number of results for each category are shown in brackets after the category label
@@ -172,13 +177,17 @@ As you enter the search term, matching results will being to appear.
 
 A typical user will not need to manipulate the playlist as queue music will take care of itself, playing in the order selected by the user.
 
-To view the playlist click ![Playlist Button](/images/And-PlaylistTile.png)
+To view the playlist click <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-PlaylistTile.png" />
 
 ### Clearing the playlist
 
-1. Click ![Playlist Button(/images//And-PlaylistTile.png)
-2. Press AND HOLD on each track to select the tracks or Albums  ![Playlist Edit Button(/images/And-Playlist-Edit.png)
-3. Click ![Playlist Clear Button](/images/And-PlaylistClearButton.png)
+1. Click  <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-PlaylistTile.png" />
+2. to clear to whole Playlist press the <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-PlaylistClearButton.png" />
+
+
+3. To clear individual tracks/Albums, press AND HOLD on each track to select the tracks or Albums   
+                  <img style="floatcentre" src="http://linn.github.io/kazoo.site/images//And-Playlist-Edit.png" />
+4. Click  <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-PlaylistClearButton.png" /> to delete the selected tracks
 
 All tracks will be removed from the currently selected room's playlist.
 
@@ -195,7 +204,7 @@ To repeat the playlist after the last track has played click ![Repeat Button](/i
 ### Saving a Playlist
 
 You can Save playlists using the Save button located on the Playlist dialogue
-<img style="floatcentre" src="/images/And-PlaylistSave.png"  />
+ <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/And-PlaylistSave.png"  />
 >
 
 
@@ -208,12 +217,11 @@ Linn DS systems provides the ability to different play music in every room in th
 
 All rooms grouped together play the same music in perfect synchronisation.
 
-1. Click ![Multiroom Tile](/images/MultiroomTile.png)
-2. Click ![Group Button](/images/GroupButton.png) on the room you want to group with other rooms
+1. Click <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/MultiroomTile.png" />
+2. Click <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/GroupButton.png" /> on the room you want to group with other rooms
 3. Check the rooms you want to add to the group
 
-
-       <img style="floatcentre" src="/images/And-GroupDialog.png"  />  
+<img style="floatcentre" img align= "middle" src="http://linn.github.io/kazoo.site/images/And-GroupDialog.png"  />  
 
         
 
@@ -235,8 +243,8 @@ To make a room a permanently part of a group you need to configure your Linn sys
 
 In our example of a bedroom, called "Bedroom", with a dressing room, called "Dressing Room", you would configure the name of the dressing room's Receiver source to "Bedroom".
 
-* If a permanently grouped room is not playing the same as the group click ![Satellite Dialog](/images/SatelliteButton.png) and ensure the room is ticked
-     <img style="floatcentre" src="/images/iPad-PermanentGrouping.jpg"  />  
+* If a permanently grouped room is not playing the same as the group click  <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/SatelliteButton.png" /> and ensure the room is ticked
+      <img style="floatcentre" src="http://linn.github.io/kazoo.site/images/iPad-PermanentGrouping.jpg"  />  
 >  
 
 

@@ -2,8 +2,13 @@
 layout: default
 title: Kazoo User Guide
 ---
+[HOME](http://docs.linn.co.uk/wiki/index.php/Products)
 
-# Kazoo User Guide
+[Android Kazoo User Guide](http://linn.github.io/kazoo.site/User-Android/)
+
+[iPad/iPhone Kazoo User Guide](http://linn.github.io/kazoo.site/User-iPad/)
+
+# Kazoo User Guide for Windows and iMac
 
 ## Overview
 

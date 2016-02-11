@@ -142,7 +142,7 @@ You can select any New tracks, list Music by Genre, List Music by Genre or check
 
 Qobuz streaming services can be select by clicking
 
-![Qobuz Tile](/images/QobuzTile.png) 
+<img style="floatcentre"  src="http://linn.github.io/kazoo.site/images/QobuzTile.png" />
 
 If a Qobuz streaming account has not been assigned to Kazoo or your Linn DS, you will get the Login screen to enter your Username and Password for your Qobuz account.
 
